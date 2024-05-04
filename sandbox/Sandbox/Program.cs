@@ -4,7 +4,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello Sandbox World!");
-        System.Console.WriteLine("debug here");
+        for (int x=0; x<9; x++)
+        {
+            Console.WriteLine("Sausy time :3");
+        
+        }
     }
 }
